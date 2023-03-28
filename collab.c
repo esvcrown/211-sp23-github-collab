@@ -52,6 +52,10 @@ void amari9_asurka2(){
   printf("Aaryan Mariselvam and Aarav Surkatha");
   printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
 }
+void esauc4(){
+printf("Estefania Saucedo");
+print ("I learned how to use commands to manage code, collaborate, an maintain an organized codebase");
+}
 
 int main() {
   printf(
@@ -63,6 +67,7 @@ int main() {
   ppacho2_grohr2();
   dkhar3_nvaly2();
   amari9_asurka2();
+  esauc4();
 
   return 0;
 }
